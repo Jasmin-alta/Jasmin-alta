@@ -1,11 +1,12 @@
-## Welcome to Jasmin's Corner👋
+## Welcome to Jasmin's Corner! 👋
 
 My name is Jasmin, and I'm a freshman at Georgia State University, majoring in Computer Information Systems (CIS).
 
 In my free time, I love visiting new places, traveling, and trying new restaurants. I'm a huge foodie and always love hearing new restaurant recommendations! 🍽️🌎 I also love Rottweilers and hope to have one of my own in the future because I think they're the cutest dogs ever. 🐕
 
-I'm interested in internship opportunities, fellowships, and collaborative projects, especially those that allow me to explore my interests in technology, business, and finance while building new skills and connecting with others.
+One of my memorable experiences has been having the opportunity to meet the Mayor and City Manager of Lawrenceville, Georgia. It was a great experience that allowed me to connect with local leaders and learn more about my community.
 
+I'm interested in internship opportunities, fellowships, and collaborative projects, especially those that allow me to explore my interests in technology, business, and finance while building new skills and connecting with others.
 
 <!--
 **Jasmin-alta/Jasmin-alta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
